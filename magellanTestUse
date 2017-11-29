@@ -1,0 +1,10 @@
+#include "magellan.h"
+
+// setup
+magel.begin(//token key)
+
+String payload={json string}
+
+// post payload 
+magel.post{payload}
+
